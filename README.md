@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning ...
 - Python and Java
 - 💞️ I’m looking to collaborate on ...
-- Nothing at the moment unless u have some begin project suggestions
+- Nothing at the moment unless u have some begining project suggestions
 - 📫 How to reach me ...
-- gannonpawloski#gmail.com
+- charlottepawloski@gmail.com
 
 <!---
 UnseenObserver/UnseenObserver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
