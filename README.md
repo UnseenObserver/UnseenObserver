@@ -23,16 +23,9 @@
   <img src="https://img.shields.io/badge/Mindset-Always_Learning-16A34A?style=for-the-badge" alt="Always Learning" />
 </p>
 
-### 🔍 What I’m Into (Tech)
-- <img src="https://img.shields.io/badge/Software_Development-FF6B6B?style=flat-square" alt="Software Development" />
-- <img src="https://img.shields.io/badge/LLM_Training_%26_Usage-8B5CF6?style=flat-square" alt="LLM Training and Usage" />
-- <img src="https://img.shields.io/badge/Data_Management_%26_Systems-0EA5E9?style=flat-square" alt="Data Management and Systems" />
-
-### 🌟 A Little More Personal
-- 🎬 Favorite movies: **Interstellar**, **I Saw the TV Glow**, and the **How to Train Your Dragon** movies
-- 🍳 I love cooking dinner and improving recipes each time like a mini experiment loop
-- 🌲 I enjoy hikes, walks, and finding reasons to be outside
-- 📚 I’m always looking for new ways to learn, grow, and better myself
+| 🔍 What I’m Into (Tech) | 🌟 A Little More Personal |
+| --- | --- |
+| <a href="https://github.com/UnseenObserver/UnseenObserver.github.io-RookiePay"><img src="https://img.shields.io/badge/Software_Development-FF6B6B?style=flat-square" alt="Software Development" /></a><br><a href="https://github.com/UnseenObserver"><img src="https://img.shields.io/badge/LLM_Training_%26_Usage-8B5CF6?style=flat-square" alt="LLM Training and Usage" /></a><br><a href="https://github.com/UnseenObserver/UnseenObserver.github.io-RookiePay"><img src="https://img.shields.io/badge/Data_Management_%26_Systems-0EA5E9?style=flat-square" alt="Data Management and Systems" /></a><br><br>- Building stronger software habits through projects<br>- Exploring LLM tooling and real-world usage<br>- Interested in data flows, structure, and systems thinking | - 🎬 Favorite movies: **Interstellar**, **I Saw the TV Glow**, and **How to Train Your Dragon**<br>- 🍳 I love cooking dinners and improving recipes every time<br>- 🌲 I enjoy hikes, walks, and outdoor activities<br>- 📚 I’m always learning, growing, and working to better myself |
 
 ## 💻 Tech Stack
 <p>
