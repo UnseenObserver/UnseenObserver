@@ -16,9 +16,12 @@
 ---
 
 ## 🧠 About Me
-- Computer Science student at The University of Toledo (Class of 2029).
-- I love software, superheroes, stories, and LGBTQIA+ advocacy.
-- Current goal: build cleaner projects, become a stronger teammate, and keep leveling up every semester.
+- Computer Science major at The University of Toledo (Class of 2029), now also starting a **Data Science minor**.
+- Technical interests: **software development**, **LLM training + practical usage**, and **data management systems**.
+- I’m always looking for new ways to learn, grow, and improve what I build.
+- Outside of coding, I love a great book or movie — favorites include **Interstellar**, **I Saw the TV Glow**, and the **How to Train Your Dragon** movies.
+- I enjoy cooking dinner and treating it like an experiment: improve each round, test new ideas, and make it better every time.
+- I also love getting outside for hikes, walks, and other outdoor activities.
 
 ## 💻 Tech Stack
 <p>
