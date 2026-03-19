@@ -80,17 +80,6 @@
 
 </details>
 
-<details>
-<summary><b>☕ 1030_lab2_fall_2025 — Java Coursework</b></summary>
-
-- Intro to CSE lab repository built in Java.
-- Reinforced core programming logic and foundational OOP thinking.
-- Marks early milestones in my developer journey.
-
-<a href="https://github.com/UnseenObserver/1030_lab2_fall_2025"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
-
-</details>
-
 ## 🎓 Education + Experience
 - **B.S. Computer Science** — The University of Toledo (Expected June 2029)
 - Coursework: Intro to CSE, Intro to Logic, OOP, Technical Writing
