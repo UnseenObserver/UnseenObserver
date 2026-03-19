@@ -16,12 +16,23 @@
 ---
 
 ## 🧠 About Me
-- Computer Science major at The University of Toledo (Class of 2029), now also starting a **Data Science minor**.
-- Technical interests: **software development**, **LLM training + practical usage**, and **data management systems**.
-- I’m always looking for new ways to learn, grow, and improve what I build.
-- Outside of coding, I love a great book or movie — favorites include **Interstellar**, **I Saw the TV Glow**, and the **How to Train Your Dragon** movies.
-- I enjoy cooking dinner and treating it like an experiment: improve each round, test new ideas, and make it better every time.
-- I also love getting outside for hikes, walks, and other outdoor activities.
+
+<p>
+  <img src="https://img.shields.io/badge/Major-Computer_Science-7C3AED?style=for-the-badge" alt="Computer Science Major" />
+  <img src="https://img.shields.io/badge/Minor-Data_Science-2563EB?style=for-the-badge" alt="Data Science Minor" />
+  <img src="https://img.shields.io/badge/Mindset-Always_Learning-16A34A?style=for-the-badge" alt="Always Learning" />
+</p>
+
+### 🔍 What I’m Into (Tech)
+- <img src="https://img.shields.io/badge/Software_Development-FF6B6B?style=flat-square" alt="Software Development" />
+- <img src="https://img.shields.io/badge/LLM_Training_%26_Usage-8B5CF6?style=flat-square" alt="LLM Training and Usage" />
+- <img src="https://img.shields.io/badge/Data_Management_%26_Systems-0EA5E9?style=flat-square" alt="Data Management and Systems" />
+
+### 🌟 A Little More Personal
+- 🎬 Favorite movies: **Interstellar**, **I Saw the TV Glow**, and the **How to Train Your Dragon** movies
+- 🍳 I love cooking dinner and improving recipes each time like a mini experiment loop
+- 🌲 I enjoy hikes, walks, and finding reasons to be outside
+- 📚 I’m always looking for new ways to learn, grow, and better myself
 
 ## 💻 Tech Stack
 <p>
